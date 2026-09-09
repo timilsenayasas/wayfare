@@ -34,7 +34,7 @@ Wayfare puts route options, transport modes, cost estimates, and travel time sid
 ## Meetings
 
 - **In class:** Thursdays during class hours
-- **Zoom (recurring, instructor/TA meetings):** [PASTE ZOOM LINK]
+- **Zoom (recurring, instructor/TA meetings):** https://unt.zoom.us/j/81299504748
 - **Group chat:** GroupMe — "Capstone"
 
 ---
