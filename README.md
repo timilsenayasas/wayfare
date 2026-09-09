@@ -25,9 +25,9 @@ Wayfare puts route options, transport modes, cost estimates, and travel time sid
 | Jeremiah S. | TBD | TBD |
 | Ashley | TBD | TBD |
 | Heeba | TBD | TBD |
-| Nesna | TBD | TBD |
+| Nesna | TBD | @neshnaprasai |
 
-**Team name:** [TEAM NAME]
+**Team name:** [Wanderwise]
 
 ---
 
