@@ -41,7 +41,7 @@ Wayfare puts route options, transport modes, cost estimates, and travel time sid
 
 ## Project Management
 
-- **Trello board:** [PASTE TRELLO LINK]
+- **Trello board:** [https://trello.com/invite/b/6a94b4f22c6b2c9f66069615/ATTI2e16d4ae671dbbbaaa4c865cd9563a023833FEAD/wanderwise-requirements-kanban]
 - **Columns:** Backlog → Sprint To Do → In Progress → Review/Testing → Done
 - Every card gets an assignee. Move your own cards as you work.
 
