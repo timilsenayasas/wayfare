@@ -21,7 +21,7 @@ Wayfare puts route options, transport modes, cost estimates, and travel time sid
 
 | Name | Role | GitHub |
 |------|------|--------|
-| Yasas Timilsena | Scru | @timilsenayasas |
+| Yasas Timilsena | TBD | @timilsenayasas |
 | Jeremiah S. | TBD | TBD |
 | Ashley | TBD | TBD |
 | Heeba | TBD | TBD |
