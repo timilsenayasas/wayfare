@@ -1,6 +1,6 @@
-# wayfare
+# WanderWise
 Capstone travel app- plan a trip from point A to point B
-# Wayfare
+# WanderWise
 
 A travel planning web app that tells you everything you need to know about getting from point A to point B — routes, transport options, cost, and time, in one place.
 
@@ -13,7 +13,7 @@ Instructor: David Keathly
 
 Planning a trip means opening five tabs: one for flights, one for trains, one for maps, one for prices, one for reviews. There's no single place that answers "how do I get from here to there, and what are my options?"
 
-Wayfare puts route options, transport modes, cost estimates, and travel time side by side so a user can compare and decide in one screen.
+WanderWise puts route options, transport modes, cost estimates, and travel time side by side so a user can compare and decide in one screen.
 
 ---
 
