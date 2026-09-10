@@ -4,8 +4,8 @@ Capstone travel app- plan a trip from point A to point B
 
 A travel planning web app that tells you everything you need to know about getting from point A to point B — routes, transport options, cost, and time, in one place.
 
-Capstone project — [COURSE NUMBER], [SEMESTER]
-Instructor: [NAME] · TAs: [NAMES]
+Capstone project — CSCE 4901 CAPSTONE 1, Sec 002
+Instructor: David Keathly
 
 ---
 
@@ -23,8 +23,8 @@ Wayfare puts route options, transport modes, cost estimates, and travel time sid
 |------|------|--------|
 | Yasas Timilsena | TBD | @timilsenayasas |
 | Jeremiah S. | TBD | @jms1194 |
-| Ashley | TBD | TBD |
-| Heeba | TBD | TBD |
+| Ashley | TBD | @lash28 |
+| Heeba | TBD | @hmac1311|
 | Nesna | TBD | @neshnaprasai |
 
 **Team name:** [Wanderwise]
